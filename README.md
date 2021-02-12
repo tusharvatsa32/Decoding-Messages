@@ -23,3 +23,5 @@ The frequency analysis part was confusing initially. Also, after refining the ma
 2.decode.py- Contains the code for decrypting the encoded.txt
 
 3.key.txt- Contains the mapping between different letters.
+
+4.nyt.zip- Contains 1000 text files for frequency analysis
